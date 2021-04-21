@@ -1,0 +1,26 @@
+{
+  "USD": {
+    "name": "Доллар США",
+    "flag": "flag_united_states.png"
+  },
+  "GBP": {
+    "name": "Фунт стерлингов Великобритании",
+    "flag": "flag_united_kingdom.png"
+  },
+  "JPY": {
+    "name": "Японская йена",
+    "flag": "flag_japan.png"
+  },
+  "EUR": {
+    "name": "Евро",
+    "flag": "flag_european_union.png"
+  },
+  "UAH": {
+    "name": "Украинская гривнаа",
+    "flag": "flag_ukraine.png"
+  },
+  "CNY": {
+    "name": "Китайский юань",
+    "flag": "flag_china.png"
+  }
+}
